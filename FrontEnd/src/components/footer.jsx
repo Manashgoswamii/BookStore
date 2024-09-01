@@ -2,6 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
+    <>
     <div>
       <hr/>
       <footer className="footer footer-center text-base-content rounded p-10 dark:bg-slate-900 dark:text-white">
@@ -53,6 +54,7 @@ function Footer() {
   </aside>
 </footer>
     </div>
+    </>
   )
 }
 

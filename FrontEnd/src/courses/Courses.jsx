@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
-import Course from '../components/course'
-import Footer from '../components/footer'
+import Course from '../components/Course'
+import Footer from '../components/Footer'
 
 function Courses() {
   return (
